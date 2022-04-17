@@ -1,108 +1,108 @@
 [[VegaFusion]]
 arch = "aarch64"
-git-tree-sha1 = "a75ce18896a9567b3f82ce6f1022a67bdf81fd7e"
+git-tree-sha1 = "552442f9b17f5b438bd14f66ce650c9d557b6d2d"
 os = "macos"
 
     [[VegaFusion.download]]
-    sha256 = "20907c31dc1a9fb077e88e26ac1ec15131e3c1f26181d14dda1d4354419156a3"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "d1bee94ebeb2c700571d588545a7b41172315c0b48f31b482c56c300d35bb490"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.aarch64-apple-darwin.tar.gz"
 [[VegaFusion]]
 arch = "aarch64"
-git-tree-sha1 = "cbdfd48856be7198f4386a521798277a5164c6b3"
+git-tree-sha1 = "3cbcab6fdcf6ba4084a4c5d923f81ede0f24686f"
 libc = "glibc"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "96bb774bb30eb80de6731cdc9922bcf6e80cb97e03c5c9cd4138277a6615aaa3"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "76c1c28b18ef4052901400bafdbbd9f1ddca4c68a491d4cb7af4c96a7b7d0858"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.aarch64-linux-gnu.tar.gz"
 [[VegaFusion]]
 arch = "aarch64"
-git-tree-sha1 = "5303a6e1fc256179a8d6075a52b264c10b660a81"
+git-tree-sha1 = "e30ffd917f7739e4267373b299a434bae1f33ab6"
 libc = "musl"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "0f0b51343a8654675b753e4630c69836448bd31bffbb98ae0ebc132292ef2e55"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "651c69099b3a97d3fddb7764d6c306884eac2134d48ad7d75c3b0fe099d27042"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.aarch64-linux-musl.tar.gz"
 [[VegaFusion]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e3c3ba09e8fb1fc4c07da03430791db7791146a5"
+git-tree-sha1 = "e6284055135a731d0d1eecf7da0ae0f19c24590a"
 libc = "glibc"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "fe19713e70b3537e58b5452ce678861f4939ca0312a04fee296ee7857bf7125a"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "e5e688ae2730d26f09ff5fb7a369ef65e08602cc26a123d71b08e69eae7a39cf"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.armv6l-linux-gnueabihf.tar.gz"
 [[VegaFusion]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "57cf0291ea429c14676ba8e9ad438394fb78edf6"
+git-tree-sha1 = "d78a2076a6320d745f18e88db8dd026801400042"
 libc = "musl"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "f7c97830d433cfc64e3240b476043690e1a5a644df6201b3c0709f2e3b396cf3"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "25dd21b786edbad9bfd9e70d60ed70b4ca8cdab56b1bb3076b1fd6b09ea98508"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.armv6l-linux-musleabihf.tar.gz"
 [[VegaFusion]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b63b001a156bdd31064bf82901e98b54843c07ec"
+git-tree-sha1 = "f500a7c8bac61ff5dbedf5bdb33c8c9248577fc6"
 libc = "glibc"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "d1fe1d023f7175f1f14f948b35562125871b998e4e61630619ebbb65ade46f13"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ab5c948d2066e23032cda058340863cc21e00b4460e255b0ce8145809ee94797"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
 [[VegaFusion]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0bb653edeec7ff1369172c2e17988f88102033cd"
+git-tree-sha1 = "7d5c629b0a201e6fd61dd948a4715b95240f5da6"
 libc = "musl"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "cf848dca9395d42dca209c75036260d1c313be60632d3bdb37909db752e5b952"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "94fa4f746e108b6237c865b85a171a83487ec08cb81bb0a497dd7e099e04a9fb"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.armv7l-linux-musleabihf.tar.gz"
 [[VegaFusion]]
 arch = "x86_64"
-git-tree-sha1 = "5d7a557d136dc9d7fbd2d08a8d1866fb79c1af08"
+git-tree-sha1 = "55e546a3b9aff62459e7ed0730a0e8f839a7c0b6"
 os = "macos"
 
     [[VegaFusion.download]]
-    sha256 = "1eed808da61efd33cfd4785d9e6e96b1d9cd8eeb2ec81de903c16b4594db985a"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "0fc95f04f55f3c8e055d044d23a9905df7fc56f7de29693734c4c781b21612e1"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[VegaFusion]]
 arch = "x86_64"
-git-tree-sha1 = "d2a37324932bee109262a245e12e8405f7b1fb47"
+git-tree-sha1 = "26d13e8379bba11e1bf69db6286c4883f38b121d"
 libc = "glibc"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "6f1fcbc7127f18788f4835c25d77bb4357e685e0e7a474af2935bb3e49c34805"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "4080c56e5109939398fed3614ea0ba7170c3b825550969357aa8bc168546a8ef"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.x86_64-linux-gnu.tar.gz"
 [[VegaFusion]]
 arch = "x86_64"
-git-tree-sha1 = "879ecf87e124830e1ea458ff6fbc4ff37cae7819"
+git-tree-sha1 = "c29bef324e6b3f167f02eeacf04d87baf6c89e5e"
 libc = "musl"
 os = "linux"
 
     [[VegaFusion.download]]
-    sha256 = "d00fc1e162c4aa0bef7864e3e0c7c3382f9a517402f236cbe8c750e76cec73ad"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "ab5eff926d4f9b848d818992f71555efaa50acd4c1e7033c98dcf29e328f551e"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.x86_64-linux-musl.tar.gz"
 [[VegaFusion]]
 arch = "x86_64"
-git-tree-sha1 = "156027bb33dfd4b4b7d0125c06cd68b151c64a11"
+git-tree-sha1 = "b44387e64450e0a63838f9496664af0bc4858b33"
 os = "freebsd"
 
     [[VegaFusion.download]]
-    sha256 = "551b0e4db8f6f24aefe282f17b5cd8dca3368de42fb23618842f20c552eb9d27"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0a383daa85bcc9a6eb539d04bb2cf762a3e14beec6342093b52ff2921462cebb"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.x86_64-unknown-freebsd.tar.gz"
 [[VegaFusion]]
 arch = "x86_64"
-git-tree-sha1 = "71811453045b851b383e1b571561b596dbabbe5c"
+git-tree-sha1 = "2e1fbf7a7ca4b07f8230809b0488f4d2e2636330"
 os = "windows"
 
     [[VegaFusion.download]]
-    sha256 = "69bfd7a22e4e0c9a15fc51416c48f8839c732ac5a479d1e5b91b6d43f70f3455"
-    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.1.0+0/VegaFusion.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2a98b0d0e0f26c88adb4b83b867d5c975ca24c09bd44d458d236893267b07b4b"
+    url = "https://github.com/JuliaBinaryWrappers/VegaFusion_jll.jl/releases/download/VegaFusion-v0.2.0+0/VegaFusion.v0.2.0.x86_64-w64-mingw32.tar.gz"
